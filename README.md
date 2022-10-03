@@ -1,9 +1,11 @@
 ### Hi there 👋
-I'm currently a student and an intern in Ojas Developers.
-Enchacing Skills for Frontend Backend Developing and Database.
-I'm currently learning ASP.NET, C#, TS, Node and NEST JS.
-Linkedin Account: https://www.linkedin.com/in/lovepreet-kaur-509bb81ab/
-Reach me on: eltx.lovepreet@gmail.com
+-🔭 I’m currently a student and an intern in Ojas Developers.
+- 🌱 Enchacing Skills for Frontend Backend Developing and Database.
+- 👯 I'm currently learning ASP.NET, C#, TS, Node and NEST JS.
+- 🤔 I’m looking for help with ...
+- 💬 Linkedin Account: https://www.linkedin.com/in/lovepreet-kaur-509bb81ab/
+- 📫 How to reach me: eltx.lovepreet@gmail.com
+- ⚡ Fun fact: ...
 
 <!--
 **klovepreet/klovepreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
